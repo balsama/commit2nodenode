@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the commit2node Node Type feature.
+ */
+
+include_once 'commit2nodenode.features.inc';
